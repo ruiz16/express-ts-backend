@@ -12,9 +12,10 @@
   },
   "keywords": [],
   "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "developer": "Santiago Ruiz (https://github.com/ruiz16)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/w3cj/express-api-starter.git"
+    "url": "https://github.com/ruiz16/express-ts-backend"
   },
   "license": "MIT",
   "dependencies": {
